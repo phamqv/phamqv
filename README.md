@@ -11,7 +11,6 @@
 <a href="https://www.researchgate.net/profile/Viet-Pham-46" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/2048px-ResearchGate_icon_SVG.svg.png" alt="kkkk" height="30" width="40" /></a>
 <a href="https://orcid.org/0000-0002-9485-9216" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="kkkk" height="30" width="40" /></a>
 <a href="https://orcid.org/0000-0002-9485-9216" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/26/Scopus_logo.svg" alt="kkkk" height="30" width="40" /></a>
-<a href="https://www.scopus.com/authid/detail.uri?authorId=56884048100" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="kkkk" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">About me:</h3>
