@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Viet Quoc Pham</h1>
-<h3 align="center">A Passionate Researcher in Future Networks and Wireless AI</h3> 
+<h3 align="center">A Passionate Researcher in Collective Intelligence and Network AI</h3> 
 
 - 🔭 I am an Assistant Professor in Computer Science (Networks and Distributed Systems) at Trinity School of Computer Science and Statistics
 - 📫 How to reach me: https://www.scss.tcd.ie/viet.pham/
